@@ -44,6 +44,30 @@ button:hover {
   transform: scale(1.05);
 }
 
+#controles {
+  margin-bottom: 20px;
+}
+
+#controles button {
+  margin: 0 10px;
+}
+
+#tiempo {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: #333;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 6px 12px;
+  border-radius: 6px;
+  display: inline-block;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+
+
+
 /* Imagen con animaciones */
 #foto {
   display: block;
